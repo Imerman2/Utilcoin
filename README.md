@@ -17,4 +17,6 @@ The only difference between Utilcoin and Bitcoin is number of coins rewarded per
 reward will be calculated every two weeks along with the re-targetting rate, and the fact that there are two mathematical
 equations that must be added together to get the total mining reward:the long-term stable increase (2% of total coins 
 per annum) and the regressively decaying rate that incentivizes initial adoption (decaying at a rate of approximately 
-77% per year or 35% every four years, rather than the 50% per year of Bitcoin).  
+77% per year or 35% every four years, rather than the 84% per year and 50% per 4 years of Bitcoin).  
+
+
